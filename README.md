@@ -1,4 +1,4 @@
-# Alphus
+# Pothole detection and prediction
 
 Detection of potholes using Image Processing, IR sensor, Flex sensor and ESP8266
 
